@@ -1,2 +1,1 @@
-# example
-coba-coba
+example 
